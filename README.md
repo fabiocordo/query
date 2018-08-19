@@ -5,10 +5,11 @@ Java 8, Spring Boot, Maven
 
 # Used API
 
-OMDBAPI - htt ps://www.themoviedb.org/documentation/apiMOV
-
+OMDBAPI - https://www.themoviedb.org/documentation/apiMOV 
 
 MOVIEDB - http://www.omdbapi.com/
+
+API OMDBAPI is using "RestTemplate" and API MOVIEDB is using "HttpURLConnection".
 
 
 # Samples Command line
